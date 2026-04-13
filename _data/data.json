@@ -1,0 +1,17 @@
+{
+    "copy"           : "AppSeed. All rights reserved.", 
+    "email"          : "datasci@utah.edu",
+    "design"         : "Argon Design by Creative-Tim",
+
+    "seo_title"      : "Utah Center for Data Science",
+    "seo_desc"       : "Utah Center for Data Science",
+
+    "product"        : "https://github.com/utah-datascience/utah-datascience.github.io", 
+    "github"         : "https://github.com/utah-datascience/utah-datascience.github.io",
+    "facebook"       : "",
+    "twitter"        : "https://twitter.com/UUDataScience",
+    "support"        : "https://github.com/utah-datascience/utah-datascience.github.io",
+    "discord"        : "https://discord.gg/fZC6hup",
+
+    "LAST_KEY" : "NA"
+}

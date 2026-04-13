@@ -1,0 +1,19 @@
+_site
+.sass-cache
+.jekyll-metadata
+.jekyll-cache
+.vendor
+*.lock
+
+# VS code
+.vscode
+.devcontainer
+
+# windows
+[Dd]esktop.ini
+
+# mac
+.DS_Store
+
+#pycharm
+.idea
